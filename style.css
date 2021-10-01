@@ -32,6 +32,14 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.msg {
+ font-family: "Roboto";
+width: 550px;
+height: 370px;
+margin: auto;
+padding: 50px;
+position: center;
+}
 
 .timer {
   font-family: "Roboto";
